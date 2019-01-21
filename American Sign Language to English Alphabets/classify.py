@@ -1,5 +1,5 @@
 # USAGE
-# python classify.py --model pokedex.model --labelbin lb.pickle --image examples/charmander_counter.png
+# python classify.py --model pokedex.model --labelbin lb.pickle
 
 # import the necessary packages
 from keras.preprocessing.image import img_to_array
